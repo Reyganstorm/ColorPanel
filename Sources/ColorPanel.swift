@@ -10,4 +10,6 @@ public class ColorPanel {
     public let mainColor = UIColor.blue
     
     public let systemColor = UIColor.red
+    
+    public init() {}
 }
