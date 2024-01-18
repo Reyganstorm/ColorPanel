@@ -11,5 +11,9 @@ public class ColorPanel {
     
     public let systemColor = UIColor.red
     
+    public let backroundColor = UIColor.white
+    
+    public let textColor = UIColor.black
+    
     public init() {}
 }
